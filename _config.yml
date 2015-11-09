@@ -1,6 +1,6 @@
 name: Poems and Stories
 favicon: null
-layout_spectrum: 0.03923575789667666
+layout_spectrum: 0.99904
 typography_spectrum: 0.9744537391234189
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.3007224651519209
+  brandStrength: 0.3125
   lightness: 0.31542370445095
   saturation: 0.40174254844896495
   rhythmicContrast: 0.9455734738148749
